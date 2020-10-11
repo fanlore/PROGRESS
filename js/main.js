@@ -110,7 +110,7 @@ const particlesSettings = {
 };
 
 particlesJS('particles', particlesSettings);
-
+/*
 document.addEventListener("mousemove", parallax);
 function parallax(e) {
     this.querySelectorAll('.layer').forEach(layer => {
@@ -122,3 +122,4 @@ function parallax(e) {
         layer.style.transform = `translatex(${x}px) translatey(${y}px)`
     });
 };
+*/
